@@ -7,9 +7,6 @@
     }
 
     $:total = yPlusAValue(x);
-    
-
-  //let total = yPlusAValue(x);
 
 </script>
 
