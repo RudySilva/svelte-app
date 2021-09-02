@@ -9,6 +9,7 @@
 	import IfBlock from './Logic/IfBlock.svelte';
 	import EachBlock from './Logic/EachBlock.svelte';
 	import KeyedEachBlock from './Logic/KeyedEachBlock.svelte';
+	import AwaitBlocks from './Logic/AwaitBlocks.svelte';
 </script>
 <!--PlusAValue /-->
 <!--Nested answer={83} /-->
@@ -19,7 +20,8 @@
 <!--Assignments /-->
 <!--IfBlock /-->
 <!--EachBlock /-->
-<KeyedEachBlock />
+<!--KeyedEachBlock /-->
+<AwaitBlocks />
 
 
 
