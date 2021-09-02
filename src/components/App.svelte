@@ -7,6 +7,8 @@
 	import UpdatingArrays from './UpdatingArrays.svelte';
 	import Assignments from './Assignments.svelte';
 	import IfBlock from './Logic/IfBlock.svelte';
+	import EachBlock from './Logic/EachBlock.svelte';
+	import KeyedEachBlock from './Logic/KeyedEachBlock.svelte';
 </script>
 <!--PlusAValue /-->
 <!--Nested answer={83} /-->
@@ -15,6 +17,11 @@
 <!--ShowInfo /-->
 <!--UpdatingArrays /-->
 <!--Assignments /-->
-<IfBlock />
+<!--IfBlock /-->
+<!--EachBlock /-->
+<KeyedEachBlock />
+
+
+
 
 
