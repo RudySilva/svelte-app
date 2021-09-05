@@ -10,6 +10,7 @@
 	import EachBlock from './Logic/EachBlock.svelte';
 	import KeyedEachBlock from './Logic/KeyedEachBlock.svelte';
 	import AwaitBlocks from './Logic/AwaitBlocks.svelte';
+	import OnMount from './Lifecycle/OnMount.svelte';
 </script>
 <!--PlusAValue /-->
 <!--Nested answer={83} /-->
@@ -21,7 +22,8 @@
 <!--IfBlock /-->
 <!--EachBlock /-->
 <!--KeyedEachBlock /-->
-<AwaitBlocks />
+<!--AwaitBlocks /-->
+<OnMount />
 
 
 
